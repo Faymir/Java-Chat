@@ -21,5 +21,5 @@ public class User {
 	{
 		status = 0;
 	}
-
+	
 }
